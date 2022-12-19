@@ -8,7 +8,7 @@
 
 👨‍💻 I am constantly scouring the Internet for the latest iOS news, apps, games, tips, tutorials, mobile devices and Apple Services.
 
-📫 How to reach me : trabelsiachraf.mobile@gmail.com
+📫 How to reach me : [Gmail](trabelsiachraf.mobile@gmail.com), [Linkedin](https://www.linkedin.com/in/achraf-trabelsi-83148156/) or [Twitter](https://twitter.com/Tr_Achraf).
 
 <!---
 TrabelsiAchraf/TrabelsiAchraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
